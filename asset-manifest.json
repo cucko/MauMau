@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MauMau/static/css/main.14547379.chunk.css",
+    "main.js": "/MauMau/static/js/main.f32f107b.chunk.js",
+    "main.js.map": "/MauMau/static/js/main.f32f107b.chunk.js.map",
+    "runtime-main.js": "/MauMau/static/js/runtime-main.69e15742.js",
+    "runtime-main.js.map": "/MauMau/static/js/runtime-main.69e15742.js.map",
+    "static/js/2.965ac617.chunk.js": "/MauMau/static/js/2.965ac617.chunk.js",
+    "static/js/2.965ac617.chunk.js.map": "/MauMau/static/js/2.965ac617.chunk.js.map",
+    "index.html": "/MauMau/index.html",
+    "precache-manifest.a92c14306a6d2cb5c99600fdc8fb9c82.js": "/MauMau/precache-manifest.a92c14306a6d2cb5c99600fdc8fb9c82.js",
+    "service-worker.js": "/MauMau/service-worker.js",
+    "static/css/main.14547379.chunk.css.map": "/MauMau/static/css/main.14547379.chunk.css.map"
+  }
+}
