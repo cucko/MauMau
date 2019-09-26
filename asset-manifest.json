@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MauMau/static/css/main.81adfb9e.chunk.css",
-    "main.js": "/MauMau/static/js/main.d081ba29.chunk.js",
-    "main.js.map": "/MauMau/static/js/main.d081ba29.chunk.js.map",
+    "main.js": "/MauMau/static/js/main.b0d422d2.chunk.js",
+    "main.js.map": "/MauMau/static/js/main.b0d422d2.chunk.js.map",
     "runtime-main.js": "/MauMau/static/js/runtime-main.69e15742.js",
     "runtime-main.js.map": "/MauMau/static/js/runtime-main.69e15742.js.map",
-    "static/js/2.c75f7886.chunk.js": "/MauMau/static/js/2.c75f7886.chunk.js",
-    "static/js/2.c75f7886.chunk.js.map": "/MauMau/static/js/2.c75f7886.chunk.js.map",
+    "static/js/2.39de781c.chunk.js": "/MauMau/static/js/2.39de781c.chunk.js",
+    "static/js/2.39de781c.chunk.js.map": "/MauMau/static/js/2.39de781c.chunk.js.map",
     "index.html": "/MauMau/index.html",
-    "precache-manifest.ab6cbf564aecfe48f83d0a3a4089e992.js": "/MauMau/precache-manifest.ab6cbf564aecfe48f83d0a3a4089e992.js",
+    "precache-manifest.43c0ba5f12f89172b6459d92dfa78653.js": "/MauMau/precache-manifest.43c0ba5f12f89172b6459d92dfa78653.js",
     "service-worker.js": "/MauMau/service-worker.js",
     "static/css/main.81adfb9e.chunk.css.map": "/MauMau/static/css/main.81adfb9e.chunk.css.map"
   }
